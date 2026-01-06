@@ -10,6 +10,8 @@ Independent Researcher
 
 ORCID: 0009-0008-6611-535X
 
+DOI: 10.5281/zenodo.18159898
+
 GitHub: stochastic-sisyphus
 
 Version 1.0 | January 2026
@@ -31,6 +33,10 @@ A distinct contamination channel compounds these dynamics. As model-generated co
 We examine two candidate self-correction mechanisms—recursive AI verification and market selection—and identify structural conditions under which both fail. Recursive verification lacks independent rejection signals when models share training distributions; market selection operates on lagging proxies that favor low-verification strategies until crises force revaluation.
 
 Finally, we propose an empirical agenda with instrumentation baselines, anchored by a GitHub pull-request testbed, to measure verification intensity, remediation burden, cascade fragility, substrate contamination, and the accumulation of epistemic debt. The framework yields eight testable hypotheses with explicit falsification conditions.
+
+**Cite this paper**
+
+Beck, V. (2026). *Verification Reversal: Cascades and Synthetic Productivity in an AI-Mediated Economy*. Zenodo. https://doi.org/10.5281/zenodo.18159898
 
 **Keywords:** Information cascades; Verification costs; Generative AI; Total factor productivity; Endogeneity; Epistemic debt; Adversarial robustness; Market selection.
 
@@ -1134,6 +1140,8 @@ I have no institutional affiliations or grant funding to disclose. This is indep
 Akerlof, G. A. (1970). The market for "lemons": Quality uncertainty and the market mechanism. *The Quarterly Journal of Economics*, 84(3), 488–500.
 
 Banerjee, A. V. (1992). A simple model of herd behavior. *The Quarterly Journal of Economics*, 107(3), 797–817.
+
+Beck, V. (2026). *Verification Reversal: Cascades and Synthetic Productivity in an AI-Mediated Economy*. Zenodo. https://doi.org/10.5281/zenodo.18159898
 
 Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A theory of fads, fashion, custom, and cultural change as informational cascades. *Journal of Political Economy*, 100(5), 992–1026.
 
