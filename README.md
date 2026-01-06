@@ -4,9 +4,9 @@
 
 **Vanessa Beck**
 
-Independent Researcher
+M.S. Analytics - ML Specialization, University of Illinois Chicago
 
-[vanessa.beckk1@gmail.com](mailto:vanessa.beckk1@gmail.com)
+Independent Researcher
 
 ORCID: 0009-0008-6611-535X
 
