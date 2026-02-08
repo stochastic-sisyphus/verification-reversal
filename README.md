@@ -2,6 +2,8 @@
 
 ## Cascades and Synthetic Productivity in an AI‑Mediated Economy
 
+https://doi.org/10.5281/zenodo.18159898
+
 **Vanessa Beck**
 
 M.S. Analytics - ML Specialization, University of Illinois Chicago
